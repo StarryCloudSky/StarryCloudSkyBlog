@@ -3,7 +3,7 @@
 export const siteConfig = {
   // 1. 网站标题与博主信息
   title: "Starry の 宝藏之地",
-  faviconUrl: "https://bu.dusays.com/2026/03/24/69c1e38ac1846.jpg",
+  faviconUrl: "https://bu.dusays.com/2026/11/07/6aeebe5560823.jpg",
   authorName: "StarryCloudSky",
   bio: "在代码、计算机体系结构、数据结构、算法设计、操作系统、数学间穿梭的普通人。近期正埋头于英语六级。",
 
@@ -70,6 +70,6 @@ export const siteConfig = {
     maxOutputTokens: 150,
     temperature: 0.85,
   },
-  friendLinkApplyFormat: "名称：StarryCouldSkyの宝藏之地\n简介：今天我也要学习吗\n链接：https://www.xinghuisama.top\n头像：https://bu.dusays.com/2026/03/24/69c1e38ac1846.jpg",
+  friendLinkApplyFormat: "名称：StarryCouldSkyの宝藏之地\n简介：今天我也要学习吗",
   enableLevelSystem: true,
 };
