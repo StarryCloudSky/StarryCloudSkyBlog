@@ -5,7 +5,7 @@ export const siteConfig = {
   title: "Starry の 宝藏之地",
   faviconUrl: "https://bu.dusays.com/2026/11/07/6aeebe5560823.jpg",
   authorName: "StarryCloudSky",
-  bio: "在代码、计算机体系结构、数据结构、算法设计、操作系统、数学间穿梭的普通人。近期正埋头于英语六级。",
+  bio: "在代码、计算机体系结构、数据结构、算法设计、操作系统、数学间穿梭的普通人。近期正埋头于英语六级。持续更新文章中...",
 
   navTitle: "StarryCloudSky",
 
